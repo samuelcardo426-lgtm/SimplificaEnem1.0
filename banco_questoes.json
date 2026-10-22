@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "ano": 2022,
+    "materia": "Física",
+    "nivel": "Médio",
+    "topico": "Mecânica",
+    "enunciado": "Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente sob a ação da força peso e da resistência do ar. À medida que a velocidade da queda aumenta, a força de resistência do ar também aumenta. Chega um momento em que a força de resistência do ar se iguala ao peso do paraquedista.",
+    "pergunta": "A partir desse momento, qual é o tipo de movimento executado pelo paraquedista?",
+    "opcoes": {
+      "A": "Acelerado, com aceleração constante.",
+      "B": "Retilíneo e uniforme.",
+      "C": "Retilíneo uniformemente variado.",
+      "D": "Retardado, até parar no ar.",
+      "E": "Harmônico simples."
+    },
+    "resposta_correta": "B",
+    "explicacao": "Quando a força de resistência do ar iguala a força peso, a força resultante passa a ser nula. De acordo com a 1ª Lei de Newton, o corpo mantém velocidade constante em Movimento Retilíneo e Uniforme (MRU)."
+  },
+  {
+    "id": 2,
+    "ano": 2021,
+    "materia": "Química",
+    "nivel": "Médio",
+    "topico": "Eletroquímica",
+    "enunciado": "As pilhas e baterias são dispositivos químicos que geram eletricidade. Uma bateria comum de íon-lítio utiliza reações de oxirredução para armazenar e liberar energia.",
+    "pergunta": "Na operação de descarga de uma bateria, o processo químico que ocorre no ânodo (pólo negativo) é a:",
+    "opcoes": {
+      "A": "Redução do cátion metálico.",
+      "B": "Oxidação do metal / espécie redutora.",
+      "C": "Neutralização de ácidos.",
+      "D": "Precipitação de sais insolúveis.",
+      "E": "Hidrólise salina."
+    },
+    "resposta_correta": "B",
+    "explicacao": "Por definição eletroquímica, no ânodo ocorre sempre a semirreação de oxidação (perda de elétrons)."
+  },
+  {
+    "id": 3,
+    "ano": 2020,
+    "materia": "Biologia",
+    "nivel": "Fácil",
+    "topico": "Ecologia",
+    "enunciado": "A bioacumulação (ou magnificação trófica) refere-se ao acúmulo progressivo de substâncias tóxicas ao longo dos níveis tróficos de uma cadeia alimentar.",
+    "pergunta": "Qual organismo de uma cadeia alimentar aquática típica acumulará a maior concentração de metais pesados (como o mercúrio)?",
+    "opcoes": {
+      "A": "Fitoplâncton.",
+      "B": "Zooplâncton herbívoros.",
+      "C": "Peixes pequenos herbívoros.",
+      "D": "Grandes peixes carnívoros (predadores de topo).",
+      "E": "Bactérias decompositoras do sedimento."
+    },
+    "resposta_correta": "D",
+    "explicacao": "Como os poluentes não são metabolizados facilmente, eles se concentram à medida que avançamos nos níveis tróficos, atingindo concentrações máximas nos predadores de topo."
+  },
+  {
+    "id": 4,
+    "ano": 2019,
+    "materia": "Física",
+    "nivel": "Fácil",
+    "topico": "Termodinâmica",
+    "enunciado": "O funcionamento de uma panela de pressão baseia-se na restrição da saída de vapor de água, o que provoca o aumento da pressão interna e consequente alteração no ponto de ebulição da água.",
+    "pergunta": "O cozimento dos alimentos na panela de pressão é mais rápido porque:",
+    "opcoes": {
+      "A": "A temperatura de ebulição da água aumenta, permitindo cozinhar a temperaturas mais altas.",
+      "B": "O calor específico da água diminui drasticamente.",
+      "C": "A pressão impede que o calor seja dissipado para o ambiente.",
+      "D": "O volume de água evapora por completo instantaneamente.",
+      "E": "A massa dos alimentos diminui devido à pressão."
+    },
+    "resposta_correta": "A",
+    "explicacao": "Com o aumento da pressão interna, a água ferve a uma temperatura superior a 100 ºC, o que acelera o cozimento."
+  },
+  {
+    "id": 5,
+    "ano": 2018,
+    "materia": "Química",
+    "nivel": "Fácil",
+    "topico": "Termoquímica",
+    "enunciado": "A queima de combustíveis fósseis libera dióxido de carbono (CO2) e energia térmica para o ambiente, caracterizando um processo exotérmico.",
+    "pergunta": "Em uma reação química classificada como exotérmica, o valor da variação de entalpia (Delta H) e o fluxo de calor são, respectivamente:",
+    "opcoes": {
+      "A": "Positivo e absorção de calor.",
+      "B": "Negativo e liberação de calor.",
+      "C": "Nulo e ausência de troca térmica.",
+      "D": "Positivo e liberação de calor.",
+      "E": "Negativo e absorção de calor."
+    },
+    "resposta_correta": "B",
+    "explicacao": "Processos exotérmicos liberam calor para o meio externo, resultando em uma variação de entalpia negativa (Delta H < 0)."
+  },
+  {
+    "id": 6,
+    "ano": 2017,
+    "materia": "Biologia",
+    "nivel": "Difícil",
+    "topico": "Genética",
+    "enunciado": "A fibrose cística é uma doença hereditária autossômica recessiva que afeta principalmente os pulmões e o sistema digestivo.",
+    "pergunta": "Se um casal fenotipicamente normal, mas portadores do alelo mutado (heterozigotos), decide ter filhos, qual é a probabilidade de gerarem uma criança com fibrose cística?",
+    "opcoes": {
+      "A": "0%",
+      "B": "25%",
+      "C": "50%",
+      "D": "75%",
+      "E": "100%"
+    },
+    "resposta_correta": "B",
+    "explicacao": "Cruzamento heterozigoto (Aa x Aa): a chance de nascer um indivíduo recessivo (aa) é de 1/4 ou 25%."
+  }
+]
